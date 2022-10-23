@@ -52,10 +52,7 @@ module.exports = {
             options: {
               lessOptions: {
                 modifyVars: {
-                  "primary-color": "red",
-                  "link-color": "#1DA57A",
-                  "border-radius-base": "0.5em",
-                  "card-head-color": "red",
+                  "primary-color": "#663399",
                 },
                 javascriptEnabled: true,
               },
